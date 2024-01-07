@@ -12,7 +12,7 @@ Like the gradual growth of Oklahoma City, OK, one of Code Fellows task is to hav
 To stay in a growth mindset I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
 
 ![Wheeler Ferris Wheel Oklahoma City, OK](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/aa55ca97-2b21-4728-a1e3-00101fb4933b)
-- (![alt text](https://www.wheelerdistrict.com/visit/)
+(![alt text](https://www.wheelerdistrict.com/visit/)
 
 [^1] https://r.search.yahoo.com/_ylt=AwrFSW3KOJpl6IM1LwAPxQt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1704634699/RO=10/RU=http%3a%2f%2fwww.wheelerdistrict.com%2fferris-wheel/RK=2/RS=.3wR7_MySxP2Z1CJJVOOJrvShnc-
 
