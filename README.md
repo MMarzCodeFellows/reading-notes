@@ -1,5 +1,5 @@
 # reading-notes
-- 👋 Hi, I’m Mikea Marzett from Oklahoma City, OK. I am originally from the healthcare industry the last twenty years with a Bachelor's Degree in Liberal Arts & Education. I can be found @MMarzCodeFellows .
+- 👋 Hi, I’m **Mikea Marzett** from Oklahoma City, OK. I am originally from the healthcare industry the last twenty years with a Bachelor's Degree in Liberal Arts & Education. I can be found @MMarzCodeFellows .
 - 👀 I’m interested in learning new software development skills as I participate in the self-placed
  curriculum with Code Fellows.
 - 🌱 I’m currently learning website development & website structure thru Code Fellows. 
