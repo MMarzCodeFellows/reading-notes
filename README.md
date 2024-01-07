@@ -11,7 +11,7 @@ Like the gradual growth of Oklahoma City, OK, one of Code Fellows task is to hav
 
 To stay in a growth mindset I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
 
--[x] Ask yourself what is your growth mindse
+-[x] Ask yourself what is your growth mindset
 
 -[ ] Follow up periodically on your goals for growth mindset
 
