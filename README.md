@@ -11,9 +11,9 @@ Like the gradual growth of Oklahoma City, OK, one of Code Fellows task is to hav
 
 To stay in a growth mindset I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
 
-[x] Ask yourself what is your growth mindset
-[] Follow up periodically on your goals for growth mindset
-[] Use your growth mindset to grow your potential
+-[x] Ask yourself what is your growth mindset
+-[ ] Follow up periodically on your goals for growth mindset
+-[ ] Use your growth mindset to grow your potential
 
 ![Wheeler Ferris Wheel Oklahoma City, OK](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/aa55ca97-2b21-4728-a1e3-00101fb4933b)
 (![alt text](https://www.wheelerdistrict.com/visit/)
