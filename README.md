@@ -12,7 +12,7 @@ Like the gradual growth of Oklahoma City, OK, one of Code Fellows task is to hav
 
 To stay in a growth mindset I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
 
-![alt text](image.jpg)
+![alt text]https://search.yahoo.com/yhs/search;_ylt=AwrFGZWzOJplrXM28ZYPxQt.;_ylc=X1MDMjExNDcwMDU1OQRfcgMyBGZyA3locy12aXNpY29tLWJvYnUEZnIyA3NhLWdwLXNlYXJjaARncHJpZANzSDRpT1FrVVRadXZNdDBBR09ZMDFBBG5fcnNsdAMwBG5fc3VnZwM0BG9yaWdpbgNzZWFyY2gueWFob28uY29tBHBvcwMxBHBxc3RyA2ZhcnJpcyB3aGVlbCBva2wEcHFzdHJsAzE2BHFzdHJsAzI2BHF1ZXJ5A2ZlcnJpcyUyMHdoZWVsJTIwb2tsYWhvbWElMjBjaXR5BHRfc3RtcAMxNzA0NjA1ODk5BHVzZV9jYXNlAw--?p=ferris+wheel+oklahoma+city&fr2=sa-gp-search&hspart=visicom&hsimp=yhs-bobu&param1=c672bffa8e5dc9eb227846310207f3e04af2bd19&param2=d974101dd566d0cb497c136be18c735e9b635f06&param3=1704605867397&type=dm0001&mkr=15
 
 [^1] https://r.search.yahoo.com/_ylt=AwrFSW3KOJpl6IM1LwAPxQt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1704634699/RO=10/RU=http%3a%2f%2fwww.wheelerdistrict.com%2fferris-wheel/RK=2/RS=.3wR7_MySxP2Z1CJJVOOJrvShnc-
 
