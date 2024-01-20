@@ -11,7 +11,7 @@
 # **Growth Mindset**  
 Like the gradual growth of Oklahoma City, OK, one of Code Fellows task is to have us think about growth mindset. Having a growth mindset to me is remembering how much dedication and hard work it takes others and myself to get any project, collaboration, educational milestones, and or goals accomplished. 
 
-To stay in a growth mindset I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
+To stay in a growth mindset I have three reminders: I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
 
 -[x] Ask yourself what is your growth mindset
 
