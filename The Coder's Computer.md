@@ -44,4 +44,4 @@ Can you explain what is happening in the following scenario if these commands an
 
 <learn more at:http://wikipedia.com>
 
-<also at: https://en.wikipedia.org/wiki/Command-line_completion>
+<For command completion info see: https://en.wikipedia.org/wiki/Command-line_completion>
