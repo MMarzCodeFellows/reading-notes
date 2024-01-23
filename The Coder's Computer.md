@@ -11,6 +11,8 @@ What are four important features to look for in a text editor?
  
  +A variety of selections of extensions available to important features
 
+<For more information see: https://en.wikipedia.org/wiki/Text_editor>
+
  # **Commands**
 What do the following commands do?
 
