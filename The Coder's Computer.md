@@ -28,7 +28,7 @@ What do the following commands do?
 
 # **Arguments / Instructions in Command Lines**
 Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
-(Arguments are extra instructions given to a command.)
+(Arguments are *extra instructions* given to a command.)
 
 +cd projects - become a project folder
 
