@@ -28,7 +28,7 @@ How many do you need to create the smallest heading? one
 
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
-When making bold text use two asterisks (**) or you can also use underscores (__) around the text:
+When making bold text you can use two asterisks (**) or you can also use underscores (__) around the text:
 
 5. How do you create a link with Markdown?
 
