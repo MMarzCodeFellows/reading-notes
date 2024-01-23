@@ -37,3 +37,7 @@ Can you explain what is happening in the following scenario if these commands an
 +cd .. -  returns you to the directory of folders
 
 +ls projects/new-project - lists what is inside the new folder
+
+# **Learn More **
+
+<learn more::http://wikipedia.com>
