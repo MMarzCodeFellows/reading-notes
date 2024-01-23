@@ -16,6 +16,7 @@ What is Markdown?
 Why do we use Markdown?
 
 What symbol will create a heading in Markdown?
+In order to create a heading you need to add a number signs (#) in front of the word or phrase.
 
 How many characters do you need to create the largest heading? six
 
