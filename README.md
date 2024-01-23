@@ -9,35 +9,25 @@
   
  ![Screenshot_20231213-143804](https://github.com/MMarzCodeFellows/MMarzCodeFellows/assets/155282209/2bc90db6-c5bf-4fcc-9e97-b96186fc7ea0)
 # **Markdown**
-In this process we are learning Markdown.
-1. What is Markdown?
+In this software development process we are learning Markdown. Answering the following questions helps to explain a portion of our studies.
 
-Markdown is.
+What is Markdown?
 
-2. Why do we use Markdown?
+Why do we use Markdown?
 
-....
-
-3. What symbol will create a heading in Markdown?
-
-....
+What symbol will create a heading in Markdown?
 
 How many characters do you need to create the largest heading? six
 
-How many do you need to create the smallest heading? one
+How many characters do you need to create the smallest heading? one
 
-4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
+When making text bold or italicized for emphasis, it is best practice to use which symbol?
+When making bold text it is best to use two asterisks (**) or you can also use underscores (__) around the text for the best outcomes.
 
-When making bold text you can use two asterisks (**) or you can also use underscores (__) around the text:
-
-5. How do you create a link with Markdown?
-
-In order to create a hyper link in Markdown you can use the following:
-
+How do you create a link with Markdown? In order to create a hyper link in markdown you can use the following:
 [Text to display](link address)
 
-7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-
+What are the three symbols you can use to create an unordered (bulleted) list with Markdown? 
 You can make unordered (bulleted) lists with three symbols:
 
 (*)
