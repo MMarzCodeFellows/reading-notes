@@ -58,6 +58,7 @@ MMarzCodeFellows/MMarzCodeFellows is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 # **Code 102- Introduction to Software Development** 
+<https://github.com/MMarzCodeFellows/reading-notes/blob/main/README.md>
 - Learning Markdown
 - The Coder's Computer
 - Revisions and the Cloud
