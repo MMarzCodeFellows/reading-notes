@@ -44,9 +44,9 @@ To stay in a growth mindset I have three reminders: I must stay focused, give my
 
 -[x] Ask yourself what is your growth mindset
 
--[ ] Follow up periodically on your goals for growth mindset
+-[x] Follow up periodically on your goals for growth mindset
 
--[ ] Use your growth mindset to grow your potential
+-[x] Use your growth mindset to grow your potential
 
 ![Wheeler Ferris Wheel Oklahoma City, OK](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/aa55ca97-2b21-4728-a1e3-00101fb4933b)
 (![alt text](https://www.wheelerdistrict.com/visit/)
@@ -57,5 +57,18 @@ To stay in a growth mindset I have three reminders: I must stay focused, give my
 MMarzCodeFellows/MMarzCodeFellows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# **Code 102- Introduction to Software Development** 
+- Learning Markdown
+- The Coder's Computer
+- Revisions and the Cloud
+- Structure web pages with HTML
+- Design web pages with CSS
+- Activate web pages with JavaScript
+- Programming with JavaScript
+- Operators and loops
+  
+# **Code 201- Foundations of Software Development**
+# **Code 301- Intermediate Software Development**
+# **Code 401- Advanced Software Development**
 
 <mark>Till next time<mark> :wave:
