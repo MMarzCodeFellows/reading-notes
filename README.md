@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # **Code 102- Introduction to Software Development** 
 
-- [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/blob/main/MarkDown,md)
 - [TheCoder'sComputer](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 - [RevisionsandtheCloud](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 - [Structure web pages with HTML](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
