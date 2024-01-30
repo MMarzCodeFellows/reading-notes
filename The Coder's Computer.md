@@ -40,6 +40,12 @@ Can you explain what is happening in the following scenario if these commands an
 
 +ls projects/new-project - lists what is inside the new folder
 
+# **Notes on how commands are used, and which look similar to GUI File Explorer/Finder**
+
++The Command Line
++Basic Navigation
++About Files
+
 # **Comparison of “Basic” Text Editor vs Coding-Specific Text Editor vs IDE **
 +
 +
