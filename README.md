@@ -62,11 +62,11 @@ You can click the Preview link to take a look at your changes.
 - [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 - [TheCoder'sComputer](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 - [RevisionsandtheCloud](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
-- Structure web pages with HTML
-- Design web pages with CSS
-- Activate web pages with JavaScript
-- Programming with JavaScript
-- Operators and loops
+- [Structure web pages with HTML](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- [Design web pages with CSS](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- [Activate web pages with JavaScript](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- [Programming with JavaScript](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- [Operators and loops](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
   
 # **Code 201- Foundations of Software Development**
 # **Code 301- Intermediate Software Development**
