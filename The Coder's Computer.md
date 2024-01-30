@@ -43,9 +43,10 @@ Can you explain what is happening in the following scenario if these commands an
 # **Notes on how commands are used, and which look similar to GUI File Explorer/Finder**
 
 +The Command Line
-Per Ryan'sTutorials.Net found at https://ryanstutorials.net/linuxtutorial/commandline.php a command line is similar to a window desktop screen AKA a Terminal. This system is a text feedback system. You put in text and text is rendered back in a different format. These text are in essence commands prompting a reaction to be made by typing certain text.
+Per Ryan'sTutorials.Net found at https://ryanstutorials.net/linuxtutorial/commandline.php a command line is similar to a window desktop screen AKA a Terminal. 
 
 +Basic Navigation
+This system is a text feedback system. You put in text and text is rendered back in a different format. These text are in essence commands prompting a reaction to be made by typing certain text.
 
 +About Files
 
