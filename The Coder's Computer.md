@@ -40,7 +40,7 @@ Can you explain what is happening in the following scenario if these commands an
 
 +ls projects/new-project - lists what is inside the new folder
 
-# **Comparison of “Basic” text editor vs Coding-Specific Text Editor vs IDE **
+# **Comparison of “Basic” Text Editor vs Coding-Specific Text Editor vs IDE **
 +
 +
 +
