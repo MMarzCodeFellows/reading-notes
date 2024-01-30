@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # **Code 102- Introduction to Software Development** 
 
-- ([Learning Markdown](Learning Markdown)
+- [Learning Markdown](Learning Markdown)
 - The Coder's Computer
 - Revisions and the Cloud
 - Structure web pages with HTML
