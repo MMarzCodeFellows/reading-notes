@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 # **Code 102- Introduction to Software Development** 
 
 - {Learning Markdown}([https://www.example.com}](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
-- The Coder's Computer
+- TheCoder'sComputer.md
 - Revisions and the Cloud
 - Structure web pages with HTML
 - Design web pages with CSS
