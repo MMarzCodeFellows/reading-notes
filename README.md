@@ -59,9 +59,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # **Code 102- Introduction to Software Development** 
 
-- LearningMarkdown.md
-- TheCoder'sComputer.md
-- RevisionsandtheCloud.md
+- [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- [TheCoder'sComputer] (https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
+- RevisionsandtheCloudd
 - Structure web pages with HTML
 - Design web pages with CSS
 - Activate web pages with JavaScript
