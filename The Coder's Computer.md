@@ -20,7 +20,7 @@ What do the following commands do?
 
 +ls - a command to print the entirity/ contents of directory
 
-+cd -  command that allows multiple directions
++cd - command that allows multiple directions
 
 +mkdir - command that creates a new directory
 
