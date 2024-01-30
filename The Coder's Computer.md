@@ -49,6 +49,7 @@ Per Ryan'sTutorials.Net found at https://ryanstutorials.net/linuxtutorial/comman
 This system is a text feedback system. You put in text and text is rendered back in a different format. These text are in essence commands prompting a reaction to be made by typing certain text.
 
 +About Files
+Within the Terminal is what is known as the Shell. This Shell is a part of the operating system reactive to the text AKA commands you put in yuor terminal. There are numerous types of shell and ways to see what shell your terminal has. You can use one type search opportunity with a ECHO program to see what type of shell your terminal is operating with. 
 
 # **Comparison of “Basic” Text Editor vs Coding-Specific Text Editor vs IDE **
 +
