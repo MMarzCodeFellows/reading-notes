@@ -53,11 +53,15 @@ Within the Terminal is what is known as the Shell. This Shell is a part of the o
 
 # **Comparison of “Basic” Text Editor vs Coding-Specific Text Editor vs IDE **
 
-+
-+
-+
-+
-+
+**Text editors** are on your computer usually when purchased and they can have the bare minimum capabilities. 
+For example notepad can allow for basic editing and codeing and it is up to the coder to decide for their project what will be best suited. These editors do just that they edit text. It is suggested per some to code in plain text (e.g. no italics, no bold, etc..). Most text editors don't highlight your mistakes. They are just plain text field options in a sense.
+
+**Code Editors** as described multiple sources and the older code are more detailed ways of editing text. Visual Studio Code is a free editor made by Microsoft that helps to allow syntax, codes, highlighting, themes, and code completion.
+
++ Visual Studio Code, Atom, & Brackets are free text editors. 
++ BB Edit & Sublime are premium (non-free) text editors that can be purchased to help code, practice editing, highlighting, and themes in your day to day coding.
+
+**IDEs**
 
 # **Learn More **
 
