@@ -51,7 +51,7 @@ This system is a text feedback system. You put in text and text is rendered back
 +About Files
 Within the Terminal is what is known as the Shell. This Shell is a part of the operating system reactive to the text AKA commands you put in yuor terminal. There are numerous types of shell and ways to see what shell your terminal has. You can use one type search opportunity with a ECHO program to see what type of shell your terminal is operating with. 
 
-# **Comparison of Basic Text Editor vs Coding-Specific Text Editor vs IDE **
+# Comparison of Basic Text Editor vs Coding-Specific Text Editor vs IDE 
 
 **Text editors** are on your computer usually when purchased and they can have the bare minimum capabilities. 
 For example notepad can allow for basic editing and codeing and it is up to the coder to decide for their project what will be best suited. These editors do just that they edit text. It is suggested per some to code in plain text (e.g. no italics, no bold, etc..). Most text editors don't highlight your mistakes. They are just plain text field options in a sense.
