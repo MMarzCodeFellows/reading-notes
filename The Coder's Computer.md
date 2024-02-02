@@ -61,10 +61,19 @@ For example notepad can allow for basic editing and codeing and it is up to the 
 + Visual Studio Code, Atom, & Brackets are free text editors. 
 + BB Edit & Sublime are premium (non-free) text editors that can be purchased to help code, practice editing, highlighting, and themes in your day to day coding.
 
-**IDEs**
+**Integrated Development Environment (IDE)s**
 
-# **Learn More **
+Text editors manages text & files. An Integrated Development Environment (IDE) does even more as a software package. When you make purchases from Microsoft for example you are buying a package tha tllows you to do certain task like in Microsoft Outlook emails, calendar access, etc.
+
+Wikipedia.org defines Integrated Development Environments, "are designed to maximize programmer productivity by providing tight-knit components with similar user interfaces. IDEs present a single program in which all development is done. This program typically provides many features for authoring, modifying, compiling, deploying and debugging software. This contrasts with software development using unrelated tools...reducing setup time, & increase developer productivity... As of August 2023, the most commonly searched for IDEs on Google Search were Visual Studio, Visual Studio Code, and 
+Eclipse." 
+
++ The IDE can provide syntax highlighting, code completion, refactoring, version cotonrol to interact with repositories, and debugging.
+
+# **To Learn More Options **
 
 <learn more at:http://wikipedia.com>
 
 <For command completion info see: https://en.wikipedia.org/wiki/Command-line_completion>
+
+<For integrated development environments info see: https://en.wikipedia.org/wiki/Integrated_development_environment>
