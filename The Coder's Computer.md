@@ -70,7 +70,7 @@ Eclipse."
 
 + The IDE can provide syntax highlighting, code completion, refactoring, version cotonrol to interact with repositories, and debugging.
 
-# To Learn More Options 
+# To Learn More  
 
 <To learn more basic information go to: http://wikipedia.com>
 
