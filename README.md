@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on many new topics from HTML, workflow processes, and so much more.
 - 📫 How to reach me easiest is via github at https://github.com/MMarzCodeFellows, www.linkedin.com/in/MMarz-7475271bb or at my email MMarzCodes@Gmail.com.
   
-![Screenshot_20231213-143804]{https://github.com/MMarzCodeFellows/MMarzCodeFellows/assets/155282209/2bc90db6-c5bf-4fcc-9e97-b96186fc7ea0}
+![Screenshot_20231213-143804](https://github.com/MMarzCodeFellows/MMarzCodeFellows/assets/155282209/2bc90db6-c5bf-4fcc-9e97-b96186fc7ea0)
  
 # **Markdown**
 In this software development process we are learning Markdown. Answering the following questions helps to explain a portion of our studies.
