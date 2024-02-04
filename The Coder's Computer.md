@@ -30,15 +30,15 @@ What do the following commands do?
 Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
 (Arguments are *extra instructions* given to a command.)
 
-+cd projects - become a project folder
++cd projects - moving into a directory/folder. The name of the directory is projects. 
 
-+mkdir new-project - creates the new project
++mkdir new-project - creates the new directory/ folder named new project
 
-+touch new-project/newfile.md - creates the new file  (.md item)
++touch new-project/newfile.md - creates the new file  (.md item) named newfile inside of the new project directory.
 
-+cd .. -  returns you to the directory of folders
++cd .. -  returns you to the directory of folders. Example from the current directory to the parent directory. Moving one level.
 
-+ls projects/new-project - lists what is inside the new folder
++ls projects/new-project - lists what is inside the new directory/folder...lists the contents of the new AKA project direcoty that is inside the project directory.
 
 # **Notes on how commands are used, and which look similar to GUI File Explorer/Finder**
 
