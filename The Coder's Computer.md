@@ -38,7 +38,7 @@ Can you explain what is happening in the following scenario if these commands an
 
 +cd .. -  returns you to the directory of folders. Example from the current directory to the parent directory. Moving one level.
 
-+ls projects/new-project - lists what is inside the new directory/folder...lists the contents of the new AKA project direcoty that is inside the project directory.
++ls projects/new-project - lists what is inside the new directory/folder...lists the contents of the new AKA project directory that is inside the project directory.
 
 # **Notes on how commands are used, and which look similar to GUI File Explorer/Finder**
 
