@@ -69,6 +69,7 @@ Wikipedia.org defines Integrated Development Environments, "are designed to maxi
 Eclipse." 
 
 + The IDE can provide syntax highlighting, code completion, refactoring, version cotonrol to interact with repositories, and debugging.
++ The Integrated Development Environment (IDE) are very detailed options past just editing. 
 
 # To Learn More  
 
