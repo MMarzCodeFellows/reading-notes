@@ -9,7 +9,7 @@
 
 ![C:\Users\mmarz\Pictures\Screenshot_20231213-143804.png](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 
-
+https://codefellows.slack.com/archives/D06BC2QN7HA/p1707017253273509
 
 # **Markdown**
 In this software development process we are learning Markdown. Answering the following questions helps to explain a portion of our studies.
