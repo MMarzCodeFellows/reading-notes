@@ -7,8 +7,7 @@ How do we start coding changes on our basic computers, desktops, and lab tops as
 
 First we look for a platform to do that with. Git is one of those platforms. 
 
-![(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
-]("C:\Users\mmarz\Pictures\Git defined by Wikipedia.png")
+![(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)]("C:\Users\mmarz\Pictures\Git defined by Wikipedia.png")
 
 [(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 ](https://git-scm.com/downloads)
