@@ -34,10 +34,29 @@ Example:              $ git clone https://github.com/test
 After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 
 - # **What is the command to take a snapshot of your changed files?**
+ Per the tutorial you can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
 
-- # **What is the command to send your changed files to Github?**
+$ git clone https://github.com/test
+
+By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
+
+To clone a repository into a directory with another name of your choosing, use the following command format: 
+
+   $ git clone https://github.com/test mydirectory
+  
+The command above makes a copy of the target repository in a directory named “mydirectory.”
+
+- # **What is the command to send your changed files to Github
+
+ Pushing changes to remotes:
+
+Example: $ git push origin master
+
+This command pushes changes from the local “master” branch to the remote repository named “origin”.
+
+For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
 
 - # **What is this used for?** 
 
-
+Git is a type of version control. "Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified," (https://blog.udemy.com/git-tutorial-a-comprehensive-guide/ Git-Tutorial August 2015).
 
