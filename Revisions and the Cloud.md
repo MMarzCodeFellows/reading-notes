@@ -30,14 +30,14 @@ Per the Git-Tutorial when you create a copy of an existing Git repository from a
 
 Example:              $ git clone https://github.com/test
 
--# **What is the command to track and stage files?**
+- # **What is the command to track and stage files?**
 After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 
--# **What is the command to take a snapshot of your changed files?**
+- # **What is the command to take a snapshot of your changed files?**
 
--# **What is the command to send your changed files to Github?**
+- # **What is the command to send your changed files to Github?**
 
--# **What is this used for?** 
+- # **What is this used for?** 
 
 
 
