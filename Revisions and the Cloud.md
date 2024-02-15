@@ -5,13 +5,17 @@ In this software development process we are learning revisions and the cloud. Be
 
 How do we start coding changes on our basic computers, desktops, and lab tops as computer users?
 
-First we look for a platform to do that with. Git is one of those platforms. 
+First we look for a platform to do that with. 
 
-Wikipedia defines Git as, "distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers." at [https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md](https://en.wikipedia.org/wiki/Git) . "As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities," (Wikipedia, https://en.wikipedia.org/wiki/Git edited 01.01.2024).
+# **Git is one of those platforms** 
 
-One way to download Git is via computer downloads quick and easy like at [(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)](https://git-scm.com/downloads)
+- Wikipedia defines Git as, "distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers." at [https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md](https://en.wikipedia.org/wiki/Git)
+ - "As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities," (Wikipedia, https://en.wikipedia.org/wiki/Git edited 01.01.2024).
+- One way to download Git is via computer downloads quick and easy like at [(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)](https://git-scm.com/downloads)
 
 Code Fellows uses Git as a training tool for us new coders learning basic coding skills.
+
+# **Other Platforms combined with Git**
 
 What is Version Control?
 
