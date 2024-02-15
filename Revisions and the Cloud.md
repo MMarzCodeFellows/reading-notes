@@ -62,3 +62,9 @@ For cloned repositories, Git will automatically give the name “origin” to th
 
 Git is a type of version control. "Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified," (https://blog.udemy.com/git-tutorial-a-comprehensive-guide/ Git-Tutorial August 2015).
 
+# **Review**
+What is Version Control? Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. In essence a way to manage changes to files and documents. 
+What is cloning in Git? git clone Per the Git-Tutorial when you create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL you have created a copy of all the files for a project. Which leads to the creation of a directory also knows as a test.
+What is the command to track and stage files? git add  After adding changes with git add items are tracked and staged for committing.
+What is the command to take a snapshot of your changed files? By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” git commit to create a snapshot of your file,
+What is the command to send your changed files to Github?  git push to send your committed changes to a remote repository. 
