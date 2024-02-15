@@ -14,7 +14,7 @@ First we look for a platform to do that with.
 - One way to download Git is via computer downloads quick and easy like at [(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)](https://git-scm.com/downloads)
 - Code Fellows uses Git as a training tool for us new coders learning basic coding skills. One guide suggested by Code Fellows is the Git Tutorial Guide at [https://github.com/MMarzCodeFellows/reading-notes/blob/main/MarkDown.md](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-[!Git Pic Wikipedia](\Users\mmarz\Pictures\Git "defined by Wikipedia.png")
+(\Users\mmarz\Pictures\Git "defined by Wikipedia.png")
 
 # **Other Platforms combined with Git**
 
