@@ -16,7 +16,7 @@ First we look for a platform to do that with.
 
 ![alt text](image url "image Title")
 
-![Git Pic Wikipedia]"C:\Users\mmarz\Pictures\Git defined by Wikipedia.png"
+![Git Defined Wikipedia]("C:\Users\mmarz\Pictures\Git defined by Wikipedia.png") 
 
 "C:\Users\mmarz\Pictures\Git defined by Wikipedia.png"
 
