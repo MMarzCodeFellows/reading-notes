@@ -1,13 +1,13 @@
 
 
 # **Revisions and the Cloud**
-In this software development process we are learning Revisions and the cloud. Before we focus just on those two topics let's build up some fundamental concepts.
+In this software development process we are learning revisions and the cloud. Before we focus just on those two topics let's build up some fundamental concepts.
 
 How do we start coding changes on our basic computers, desktops, and lab tops as computer users?
 
 First we look for a platform to do that with. Git is one of those platforms. 
 
-![Git Wikipedia](C:\Users\mmarz\Pictures\Git defined by Wikipedia.png)
+![Git Wikipedia](C:\Users\mmarz\Pictures\Git "defined by Wikipedia.png")
 
 [(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 ](https://git-scm.com/downloads)
