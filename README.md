@@ -6,9 +6,8 @@
 - 🌱 I’m currently learning website development & website structure thru Code Fellows. 
 - 💞️ I’m looking to collaborate on many new topics from HTML, workflow processes, and so much more.
 - 📫 How to reach me easiest is via github at https://github.com/MMarzCodeFellows, www.linkedin.com/in/MMarz-7475271bb or at my email MMarzCodes@Gmail.com.
-
-![C:\Users\mmarz\Pictures\Screenshot_20231213-143804.png](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
-
+- 
+![Screenshot_20231213-143804](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/31f7f2fa-60da-46d8-97ed-f2d8c310468b)
 
 # **Markdown**
 In this software development process we are learning Markdown. Answering the following questions helps to explain a portion of our studies.
