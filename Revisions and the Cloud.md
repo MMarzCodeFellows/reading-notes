@@ -22,10 +22,10 @@ First we look for a platform to do that with.
 
 # **Other Platforms & Features combined with Git**
 
--# **What is Version Control?**
+- # **What is Version Control?**
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified," (https://blog.udemy.com/git-tutorial-a-comprehensive-guide/ Git-Tutorial August 2015).
 
--# **What is cloning in Git?**
+- # **What is cloning in Git?**
 Per the Git-Tutorial when you create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL you have created a copy of all the files for a project. Which leads to the creation of a directory also knows as a test.
 
 Example:              $ git clone https://github.com/test
