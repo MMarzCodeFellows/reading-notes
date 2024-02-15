@@ -48,7 +48,7 @@ To clone a repository into a directory with another name of your choosing, use t
   
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
-- # **What is the command to send your changed files to Github
+- # **What is the command to send your changed files to Github?**
 
  Pushing changes to remotes:
 
