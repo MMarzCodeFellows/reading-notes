@@ -20,6 +20,7 @@ First we look for a platform to do that with.
 
 "C:\Users\mmarz\Pictures\Git defined by Wikipedia.png"
 
+![Git defined by Wikipedia](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/59b78b84-648b-4355-8b8e-3f9864632cff)
 
 
 
