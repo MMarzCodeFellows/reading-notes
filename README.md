@@ -59,6 +59,7 @@ To stay in a growth mindset I have three reminders: I must stay focused, give my
 MMarzCodeFellows/MMarzCodeFellows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# **Reading Table of Contents**
 # **Code 102- Introduction to Software Development** 
 
 - [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/blob/main/MarkDown,md)
@@ -71,6 +72,22 @@ You can click the Preview link to take a look at your changes.
 - [Operators and loops](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
   
 # **Code 201- Foundations of Software Development**
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
 # **Code 301- Intermediate Software Development**
 # **Code 401- Advanced Software Development**
 
