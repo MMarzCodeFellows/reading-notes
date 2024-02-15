@@ -31,7 +31,8 @@ Per the Git-Tutorial when you create a copy of an existing Git repository from a
 Example:              $ git clone https://github.com/test
 
 - # **What is the command to track and stage files?**
-After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited ![Staging a File 2024-02-15 ](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/52a6413e-1eb2-4eb3-9559-17f775fa04bb)
+After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited as seen in the guide here:
+![Staging a File 2024-02-15 ](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/52a6413e-1eb2-4eb3-9559-17f775fa04bb)
 
 
 - # **What is the command to take a snapshot of your changed files?**
