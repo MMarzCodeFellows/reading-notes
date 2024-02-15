@@ -9,6 +9,8 @@ First we look for a platform to do that with.
 
 # **Git -Version Contol System vs Revisions for Programmers** 
 
+![image](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/68371706-b43d-4de9-a03e-7d29dd6972fa)
+
 - Wikipedia defines Git as, "distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers." at [https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md](https://en.wikipedia.org/wiki/Git)
  - "As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities," (Wikipedia, https://en.wikipedia.org/wiki/Git edited 01.01.2024).
 - One way to download Git is via computer downloads quick and easy like at [(https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)](https://git-scm.com/downloads)
