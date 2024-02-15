@@ -5,7 +5,7 @@ In this software development process we are learning revisions and the cloud. Be
 
 How do we start coding changes on our basic computers, desktops, and lab tops as computer users?
 
-First we look for a platform to do that with. Git is one of those platforms. Wikipedia defines Git as, "distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers." at [https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md](https://git-scm.com/) 
+First we look for a platform to do that with. Git is one of those platforms. Wikipedia defines Git as, "distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers." at [https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md](https://en.wikipedia.org/wiki/Git) 
 
 
 
