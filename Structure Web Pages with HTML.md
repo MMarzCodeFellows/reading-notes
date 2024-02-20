@@ -21,6 +21,6 @@ See Modzilla Atrribute Section @ website: [Mozilla](https://developer.mozilla.or
 ![image](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/9d7d30a6-b220-4e4c-a857-41f601ed5db7)
 
 ## **What is a semantic element?**
-Semantics are the meaning of a section of code. They help to indicate and describe the role of the code. Each element has a meaning. Semantics is basically the use of HTML tags to reflect content. It is a type of markup. With HTML describinig what appears on the web and tieing into different 
+Semantics are the meaning of a section of code. They help to indicate and describe the role of the code. Each element has a meaning. Semantics is basically the use of HTML tags to reflect content. It is a type of markup. With HTML the semantics tell us what the tag is used for. In essence describinig what appears on the web and tieing into different formats.
 
 See Modzilla HTML Guide - Semantic Section: [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
