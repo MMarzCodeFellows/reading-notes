@@ -70,6 +70,16 @@ You can click the Preview link to take a look at your changes.
 - [Operators and loops](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
   
 # **Code 201- Foundations of Software Development**
+- Developer Toolbelt
+- Introducation to Web Development
+- Lists, The Box Model, & Loops
+- Links, Layouts, & Functions
+- Images, Color, Text, & Work with Functions
+- Domain Modeling, Intro to DOM, & Object Literal Notation
+- HTML Tables & JS Constructor Functions
+- Layout with CSS
+- Forms & JS Events
+  
 # **Code 301- Intermediate Software Development**
 # **Code 401- Advanced Software Development**
 
