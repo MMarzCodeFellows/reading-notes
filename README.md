@@ -70,22 +70,6 @@ You can click the Preview link to take a look at your changes.
 - [Operators and loops](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
   
 # **Code 201- Foundations of Software Development**
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-
 # **Code 301- Intermediate Software Development**
 # **Code 401- Advanced Software Development**
 
