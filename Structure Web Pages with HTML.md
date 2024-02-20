@@ -9,7 +9,7 @@ See website: [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 ## **What are the 3 main parts of an HTML element?**
 There are three main parts of a HTML element:
-- The opening tag == < p > ==
+- The opening tag <p>
 - The closing tag == < /p > ==
 - The content in the middle ==HTML Training is Great==
  
