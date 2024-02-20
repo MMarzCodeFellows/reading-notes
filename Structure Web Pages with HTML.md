@@ -9,9 +9,9 @@ See website: [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 ## **What are the 3 main parts of an HTML element?**
 There are three main parts of a HTML element:
-- The opening tag <p>
-- The closing tag == < /p > ==
-- The content in the middle ==HTML Training is Great==
+- The opening tag < p >
+- The closing tag < /p > 
+- The content in the middle, for example: <p>HTML Training is Great</p>
  
 ## **What is it called when you give an element extra information?**
 ## **Attributes= giving information**
