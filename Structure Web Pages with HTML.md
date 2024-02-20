@@ -14,9 +14,11 @@ There are three main parts of a HTML element:
 - The content in the middle, for example: < p > HTML Training is Great < /p >
  
 ## **What is it called when you give an element extra information?**
-It is called an Attributes when giving extra information to an element with HTML. 
+It is called an Attributes when giving extra information to an element with HTML. Per Modzilla, "A typical element includes an opening tag with some attributes, enclosed text content, and a closing tag." 
 
 See Modzilla Atrribute Section @ website: [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
+
+![image](https://github.com/MMarzCodeFellows/reading-notes/assets/155282209/9d7d30a6-b220-4e4c-a857-41f601ed5db7)
 
 ## **What is a semantic element?**
 Semantics are 
