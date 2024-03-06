@@ -16,7 +16,7 @@ To stay in a growth mindset I have three reminders: I must stay focused, give my
 - [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/blob/main/MarkDown.md)
 - [TheCoder'sComputer](https://github.com/MMarzCodeFellows/reading-notes/blob/main/The%20Coder's%20Computer.md)
 - [RevisionsandtheCloud](https://github.com/MMarzCodeFellows/reading-notes/blob/main/Revisions%20and%20the%20Cloud.md)
-- [Structure web pages with HTML](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md) (HyperTextMarkupLanguage vs Marking down)
+- [Structure web pages with HTML](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md) 
 - [Design web pages with CSS](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 - [Activate web pages with JavaScript](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
 - [Programming with JavaScript](https://github.com/MMarzCodeFellows/reading-notes/edit/main/README.md)
