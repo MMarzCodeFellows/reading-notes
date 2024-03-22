@@ -1,15 +1,9 @@
+# **Reading Notes** 
 
+## Introduction About Me
 
-# **Growth Mindset**  
-Like the gradual growth of Oklahoma City, OK, one of Code Fellows task is to have us think about growth mindset. Having a growth mindset to me is remembering how much dedication and hard work it takes others and myself to get any project, collaboration, educational milestones, and or goals accomplished. 
+## Website Description 
 
-To stay in a growth mindset I have three reminders: I must stay focused, give myself grace, and push foward daily to stay on top of the new materials I learn.
-
--[x] Ask yourself what is your growth mindset
-
--[x] Follow up periodically on your goals for growth mindset
-
--[x] Use your growth mindset to grow your potential
 
 # **Reading Table of Contents**
 # **Code 102- Introduction to Software Development** 
@@ -21,7 +15,8 @@ To stay in a growth mindset I have three reminders: I must stay focused, give my
 - [Activate web pages with JavaScript](102/102-06.md)
 - [Programming with JavaScript](102/102-07.md)
 - [Operators and loops](102/102-08.md)
-  
+- [Stretch Goals Lab 3](102/102stretchgoal.md)
+
 # **Code 201- Foundations of Software Development**
 - [Developer Toolbelt](201/201-01.md) 
 - [Introducation to Web Development](201/201-02.md) 
