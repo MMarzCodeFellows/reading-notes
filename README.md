@@ -10,7 +10,7 @@ Index Page for my Reading Notes Repository
 
 ## Reading Table of Contents
 
-## Code 102- Introduction to Software Development
+## Code 102 Reading Notes
 
 - [Learning Markdown](102/102-01.md)
 - [TheCoder'sComputer](102/102-02.md)
@@ -22,7 +22,7 @@ Index Page for my Reading Notes Repository
 - [Operators and loops](102/102-08.md)
 - [Stretch Goals Lab 3](102/102stretchgoal.md)
 
-## Code 201- Foundations of Software Development
+## Code 201 Reading Notes
 
 - [Developer Toolbelt](201/201-01.md)
 - [Introducation to Web Development](201/201-02.md)
