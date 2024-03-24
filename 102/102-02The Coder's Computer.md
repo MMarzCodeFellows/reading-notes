@@ -1,0 +1,34 @@
+# The Coder’s Computer
+
+Computers and coding go hand in hand. One can not be without the other. When using the computer for programming you have to think what programs you are going to work with. And in the editing phase as you learn what are you going to need to be successful in your projects. With that thought comes the numerous types of computer text editors to help you. When seeking out these editors there are things to look for.
+
+## What are four important features to look for in a text editor?
+
+- Code completion
+
+The Code Completion feature provides suggestions when writing code to help you complete it faster and assists with accuracy so you have less errors or typos.
+syntax highlighting
+
+- Syntax highlighting
+
+This feature provides a highlight over errors by making erros a different color or utilizing a squiggly line under it. This makes it easier to locate any errors you have made and also makes the text easier to read.
+
+- Themes
+
+Themes allow you to change the background color, the text color, and sometimes other appearance aspects as well. This can reduce eye strain and fatigue. A popular choice is a dark background with brightly colored text.
+
+- Extensions
+
+Extensions allow you to add a sort of plugin to the text editor, allowing you to have more assistance and accomplish more with minimal effort. This is very importanmt as you grow your developing skills because you want the text editor to grow with you.
+
+## What do the following editing commands do?
+
+- pwd -Print working directory
+This command tells you what your current working directory is. AKA the “you are here” command.
+- ls - List
+This command will show a list of the files in our current location. If you add the “-l” option then it will list them vertically making it easier to read.
+- cd - Change directory
+This command allows you to change to a different directory, if you don’t have any arguements, it takes you back to your home directory.
+- mkdir - Make Directory
+This command creates a new directory with the name following the command “mkdir”
+- touch - This command creates (touches) files within a folder. It can also change or modify the timestamp.

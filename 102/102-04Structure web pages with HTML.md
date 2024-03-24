@@ -1,20 +1,27 @@
+
+# Structuring web pages with HTML
+
 <!DOCTYPE html>
 <html>
-  <head>
-  <title> MMarz's One Stop Spot
-  <style>
-    body  {
-        background-color:   rgb(2)
+    <head>
+          <style>
+            body  {
+              background-color:   rgb(2)
     }
 
-    h1 {
-        color : maroon
-    <title>102d51 Website</title>
+    h1 {color :  maroon;
+        margin-left: 40px;
+    }
+    <style>
   </head>
-  <body>
+<body> 
+        
+<h1> This is M Marz's One Stop Spot</h1>
+
+   <title>102d51 Website</title>
+  
     <header>
-      
-           
+
 </h1>
       <nav>
         <ul>
@@ -62,5 +69,4 @@
 </html>
 
 </ul>
-      
-      
+
