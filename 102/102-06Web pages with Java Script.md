@@ -6,6 +6,10 @@ Per Wikipedia.com, Javascript (JS) "is a programming language and core technolog
 
 Javascript is also known as a unit of code that resolves to a value. Examples x=8 and y=3+5. 
 
+Another example of Java Script can be seen with my Github web page:  
+
+https://github.com/MMarzCodeFellows/reading-notes/blob/main/102/102-06Web%20pages%20with%20Java%20Script.md
+
 ### What does it mean to declare a variable? 
 
 Per most websites Variables are ways to store data (including https://www.w3schools.com/js/js_variables.asp). JavaScript Variables can be declared in 4 ways:
