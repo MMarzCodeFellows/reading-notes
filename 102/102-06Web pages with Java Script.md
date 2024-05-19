@@ -8,7 +8,7 @@ Javascript is also known as a unit of code that resolves to a value. Examples x=
 
 Another example of Java Script can be seen with my Github web page:  
 
-https://github.com/MMarzCodeFellows/reading-notes/blob/main/102/102-06Web%20pages%20with%20Java%20Script.md
+https://mmarzcodefellows.github.io/102-Lab-4-/
 
 ### What does it mean to declare a variable? 
 
