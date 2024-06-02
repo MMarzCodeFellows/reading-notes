@@ -12,6 +12,8 @@ https://mmarzcodefellows.github.io/102-Lab-4-/
 
 ### What does it mean to declare a variable? 
 
+Declaring variables is one of the most important concepts in JavaScript. Variables are used to store and manage data in your computer programming. To declare a variable means to create a named placeholder for data/ the place where you want to use/store data later.
+
 Per most websites Variables are ways to store data (including https://www.w3schools.com/js/js_variables.asp). JavaScript Variables can be declared in 4 ways:
 
 <li/> Automatically
