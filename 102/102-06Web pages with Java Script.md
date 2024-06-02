@@ -30,7 +30,7 @@ x = 5;
 y = 6;
 z =  x + y;
 
-### What does it means to declare a variable? 
+### What does it means to declare a variable we ask again? 
 
     Per https://www.w3schools.com/js/js_variables.asp
 
@@ -64,6 +64,8 @@ z =  x + y;
     let z = x + y;
 
 ### What is an "assignment" operator, and what does it do? 
+
+    In programming , an assignment operator ( = ) (for example) is used to assign a value to a variable. It is known by the equals sign =. When you use the assignment operator, you're basically telling the computer to keep/store a particular value in a variable.
 
     Per
      https://canvas.instructure.com/courses/6652008/discussion_topics/17930447?module_item_id=83865116
