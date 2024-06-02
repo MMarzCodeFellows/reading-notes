@@ -92,13 +92,13 @@ It will perform/ execute for as long as the execution it is performing is true. 
 
 ### Lastly What is information received from the user called?
 
-    Per 
+    Per most sites, the information received from the user during a program's programming/ execution is commonly referred to as "input". In programming, input can come from numerous sources such as the mouse, keyboard, files, or other types of devices.
 
-    A high-level definition
+### Did you know###    
 
-    JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
+      JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
 
-    The three layers of standard web technologies; HTML, CSS and JavaScript
+    The three layers of standard web technologies; HTML, CSS and JavaScript...
 
     HTML is the markup language that we use to structure and give meaning to our web content, for example defining paragraphs, headings, and data tables, or embedding images and videos in the page.
 
