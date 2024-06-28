@@ -13,10 +13,10 @@ Index Page for my Reading Notes Repository
 
 ## Code 102 Reading Notes
 
-- [Learning Markdown](102/102-01.md)
-- [TheCoder'sComputer](102/102-02.md)
-- [RevisionsandtheCloud](102/102-03.md)
-- [Structure web pages with HTML](https://raw.githubusercontent.com/MMarzCodeFellows/reading-notes/102/102-04Structurewebpageswith.html)
+- [Learning Markdown](https://github.com/MMarzCodeFellows/reading-notes/blob/main/102/102-01Learning%20Markdown.md)
+- [TheCoder'sComputer](https://github.com/MMarzCodeFellows/reading-notes/blob/main/102/102-02The%20Coder's%20Computer.md)
+- [RevisionsandtheCloud](https://github.com/MMarzCodeFellows/reading-notes/blob/main/102/102-03Revisions%20and%20The%20Cloud.md)
+- [Structure web pages with HTML](https://github.com/MMarzCodeFellows/reading-notes/blob/main/102/102-04Structurewebpageswith.html)
 - [Design web pages with CSS](102/102-05.md)
 - [Activate web pages with JavaScript](102/102-06.md)
 - [Programming with JavaScript](102/102-07.md)
