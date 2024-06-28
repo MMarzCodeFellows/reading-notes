@@ -1,3 +1,4 @@
+
 # Reading Notes
 
 ## Introduction About Me
@@ -15,7 +16,7 @@ Index Page for my Reading Notes Repository
 - [Learning Markdown](102/102-01.md)
 - [TheCoder'sComputer](102/102-02.md)
 - [RevisionsandtheCloud](102/102-03.md)
-- [Structure web pages with HTML](https://raw.githubusercontent.com/MMarzCodeFellows/reading-notes/main/102/102-04StructurewebpageswithCopy06.01.24.html)
+- [Structure web pages with HTML](https://raw.githubusercontent.com/MMarzCodeFellows/reading-notes/102/102-04structurewebpageswith.html)
 - [Design web pages with CSS](102/102-05.md)
 - [Activate web pages with JavaScript](102/102-06.md)
 - [Programming with JavaScript](102/102-07.md)
